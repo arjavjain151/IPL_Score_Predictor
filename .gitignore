@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+artifacts/*.joblib
+artifacts/model_metrics.json
+artifacts/feature_importance.csv
+artifacts/test_predictions.csv
